@@ -1,0 +1,12 @@
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\880454836/Pippi.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\3175030973/ValkyrieAscending.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\3036057084/ModAdmin.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\2886779102/TotCustom.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\1629644846/KerozardsParagonLeveling.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\3073504073/Agonys-Attic.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\1815573406/Shanis-Stuff.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\1966733568/immersivearmor.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\2050780234/BarbarianBarber.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\2018817145/WeatyArmorPack.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\877108545/UnlockableContainers.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\2305969565/AmunetServerTransfer.pak
